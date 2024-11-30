@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SerializableParcelable</string>
+    <string name="name_text">Имя</string>
+    <string name="family_text">Фамилия</string>
+    <string name="adress_text">Адрес</string>
+    <string name="phone_text">Телефон</string>
+    <string name="button_text">Сохранить</string>
+</resources>
